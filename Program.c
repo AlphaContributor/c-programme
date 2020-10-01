@@ -3,7 +3,7 @@
 int main()
 {
     char name,country,skill;
-    printf("Welcome to Hacktoberfest 2020\n");
+    printf("Welcome to Wonderland\n");
     printf("Enter your name : ");//Get User name
     scanf("%d",&name);
     printf("Enter your Country of Residance : ");//Get user country
